@@ -1,0 +1,19 @@
+================================== Model A: Turn 1 ====================================
+Input: 
+N/A
+
+Output:
+Displays on the donation form and thank you msg.
+Missing functionality to set customized target for funds and donors and email 
+acknowledgment.
+UI looks decent
+
+================================== Model B: Turn 1 ====================================
+Input: 
+N/A
+
+Output:
+Displays on the donation form and  no thank you msg.
+provides the backend code that send email via sendgrid. 
+But there's no function in the frontend that contacts the endpoint.
+UI looks good.
